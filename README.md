@@ -1,18 +1,15 @@
-# ExploApp
-Projeto ExploApp
+<h1 align="center">
+<br>
+  <img src="https://user-images.githubusercontent.com/79226722/202042088-f5287d1b-e88a-48ec-816f-2f91cfb63b75.png" alt="YOUR_PROJECT_NAME" width="120">
+<br>
+<br>
+
+ExploFort
+</h1>
 
 ![ExploAPp](https://user-images.githubusercontent.com/79226722/202037074-91129f80-3c46-4a05-bc97-64f679bff7c5.jpg)
 
-
-<h1 align="center">
-<br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
-<br>
-<br>
-YOUR_PROJECT_NAME
-</h1>
-
-<p align="center">A little description about your project</p>
+<p align="center">O Projeto ExploApp tem como objetivo de cadastrar os serviços e poder acompanhar de forma organizada tudo o que foi feito.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -20,25 +17,15 @@ YOUR_PROJECT_NAME
   </a>
 </p>
 
-[//]: # (Add your gifs/images here:)
-<div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
-</div>
-
-<hr />
-
 ## Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- ⚛️ **React Native** —  biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa.
+- 🔶 **Firebase** — Realtime Database NoSQL
 
 ## Getting started
 
-Describe here the way to use/install your project
 
 
 ## License
