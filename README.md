@@ -19,13 +19,30 @@ ExploFort
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento de aplicativos!
 
 - ⚛️ **React Native** —  biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa.
 - 🔶 **Firebase** — Realtime Database NoSQL
 
 ## Getting started
 
+Passo a passo para o desenvolvimento do projeto:
+→ Configurar o ambiente de desenvolvimento.
+
+→ Criar o projeto react-native com o comando no CMD:
+- npx react-native init ExploApp
+
+→ Bibliotecas instaladas:
+- @react-navigation/drawer
+- @react-navigation/native
+- @react-navigation/stack
+- date-fns
+- firebase
+- react-native-gesture-handler
+- @react-native-async-storage/async-storage
+- react-native-reanimated
+- react-native-screens
+- styled-components
 
 
 ## License
